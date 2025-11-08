@@ -12,3 +12,22 @@ This project demonstrates:
 - Simple ranking logic derived from stored ratings
 
 Perfect as a learning project to practice API consumption, database CRUD, and form handling in a real Flask application.
+
+
+
+## 📂 Project Structure
+
+
+├── main.py
+├── movie.db
+├── static/
+│ └── style.css
+├── templates/
+│ ├── index.html
+│ ├── edit.html
+│ └── add.html
+└── README.md
+
+
+
+
